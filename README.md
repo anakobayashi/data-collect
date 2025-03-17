@@ -34,3 +34,5 @@ Execute o script Python.
 python nome_do_arquivo.py 
 Os arquivos de saída (dados_re.csv e dados_re.parquet) serão gerados no diretório atual. 
 O uso de # %% em código permite que ele seja executado de forma iterativa em notebooks como Jupyter e no VS Code com a extensão Python
+
+Projeto: https://www.youtube.com/watch?v=K-bIZt_hSBo&list=PLvlkVRRKOYFSrkOL-Bze-42pTdJIAj0_h&index=1 - Coleta de Dados - Resident Evil Database (Téo).
